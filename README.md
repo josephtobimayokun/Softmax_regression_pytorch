@@ -31,9 +31,6 @@ This project demonstrates end-to-end model development including data loading, t
 ---
 
 ## 📈 Results
-
-**Test Accuracy**: **[Insert your accuracy]%** (after 10 epochs)
-
 ![Training Curves](loss_curve.png)
 *Training/validation loss and accuracy over 10 epochs*
 
